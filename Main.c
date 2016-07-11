@@ -5,7 +5,7 @@
 ///////////////////////////////
 
 #include <stdio.h>
-//test
+
 int isVictory(int DISKS_NUMBER, int* ThirdRod); // checks victory conditions
 void Show(int** Rods, int DISKS_NUMBER); // prints graphic part
 void Gameplay(int** Rods, int DISKS_NUMBER); // handle game process
